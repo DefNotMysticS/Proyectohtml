@@ -113,7 +113,14 @@ section {
 .btn-comprar:hover {
     background: #003e91;
 }
-
+input[type="text"] {
+    padding: 10px;
+    width: 100%;
+    max-width: 500px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
 /* Footer */
 footer {
     background-color: #003e91;
